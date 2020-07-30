@@ -1,0 +1,8 @@
+
+-Here are some examples to send to your own email to make sure program works. Program will token and save university name the token and save after the tab which is the university email
+example University	addyours@gmail.com
+example College	addyours@gmail.com
+
+-Some real university names and admission emails
+Washington State University	admissions@wsu.edu
+Western Washington University	admit@wwu.edu
